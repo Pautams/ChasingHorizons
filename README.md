@@ -1,4 +1,4 @@
-<h2>Simple Booking Management System for Chasing Horizons</h2>
+<h2>Booking Management System for Chasing Horizons</h2>
 
 <h3>Members:</h3>
 <li>Badinas, Andrea Isabella </li>
