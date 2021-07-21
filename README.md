@@ -1,11 +1,11 @@
-<h3>Simple Booking Management System for Chasing Horizons</h3>
+<h2>Simple Booking Management System for Chasing Horizons</h2>
 
-<h3>Members:</h3><br>
+<h3>Members:</h3>
 <li>Badinas, Andrea Isabella </li>
 <li>Oseo, Janssen Wayne</li>
 <li>Tamala, Paul Josiah</li>
 <li>Velez, Alexander James</li>
-
+<br>
 <h3>About the system</h3>
 <li>Laravel Framework</li>
 <li>PHP</li>
