@@ -1,12 +1,18 @@
 <h3>Simple Booking Management System for Chasing Horizons</h3>
 
 <h3>Members:</h3><br>
-<p>Badinas, Andrea Isabella </p>
-<p>Oseo, Janssen Wayne</p>
-<p>Tamala, Paul Josiah</p>
-<p>Velez, Alexander James</p>
+<li>Badinas, Andrea Isabella </li>
+<li>Oseo, Janssen Wayne</li>
+<li>Tamala, Paul Josiah</li>
+<li>Velez, Alexander James</li>
 
-<h4>Laravel Framework</h4>
-<h4>MySQL for Database </h4>
+<h3>About the system</h3>
+<li>Laravel Framework</li>
+<li>PHP</li>
+<li>MySQL for Database </li>
+<li>User Manegement - Admin and User side</li>
+<li>Add new booking</li>
+<li>CRUD Driver details</li>
+<li>CRUD Transportation details</li>
 
 <h4>To start enter in terminal: php artisan serve</h4>
