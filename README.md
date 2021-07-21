@@ -6,7 +6,7 @@
 <li>Tamala, Paul Josiah</li>
 <li>Velez, Alexander James</li>
 <br>
-<h3>About the system</h3>
+<h3>About the Project</h3>
 <li>Laravel Framework</li>
 <li>PHP</li>
 <li>MySQL for Database </li>
