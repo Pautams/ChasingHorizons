@@ -1,1 +1,1 @@
-<h1>Simple Booking Management System for Chasing Horizons</h1>
+<h3>Simple Booking Management System for Chasing Horizons</h3>
