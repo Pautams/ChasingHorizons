@@ -6,7 +6,7 @@
 <p>Tamala, Paul Josiah</p>
 <p>Velez, Alexander James</p>
 
-<h4>Laravel Framework</h4><br>
+<h4>Laravel Framework</h4>
 <h4>MySQL for Database </h4>
 
 <h4>To start enter in terminal: php artisan serve</h4>
