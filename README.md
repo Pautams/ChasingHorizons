@@ -15,4 +15,4 @@
 <li>CRUD Driver details</li>
 <li>CRUD Transportation details</li>
 
-<h4>To start enter in terminal: php artisan serve</h4>
+
