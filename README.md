@@ -11,7 +11,7 @@
 <li>PHP</li>
 <li>MySQL for Database </li>
 <li>User Manegement - Admin and User side</li>
-<li>Add new booking</li>
+<li>Booking Management</li>
 <li>CRUD Driver details</li>
 <li>CRUD Transportation details</li>
 
